@@ -1,0 +1,2 @@
+GET https://nabyeongeun.github.io/?key=value
+GET https://nabyeongeun.github.io/?key=value
